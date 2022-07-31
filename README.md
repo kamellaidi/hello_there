@@ -4,7 +4,7 @@
 
 ## NOW 
 
-✨ Learning the bascis on Javascript to become a JS developer
+✨ Learning the basics on Javascript to become a JS developer
 
 ⚛️ Totally focused on React
 
