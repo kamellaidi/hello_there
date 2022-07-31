@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, it's Kamel 👋
 
 😎 I'm a Front-End Developer working in Paris, France 
 
