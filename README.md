@@ -1,26 +1,24 @@
 ### Hi there, it's Kamel 👋
 
-😎 I'm a Front-End Developer working in Paris, France 
+😎 I'm a Software Engineer in Paris, France 
 
 ## NOW 
 
-✨ Learning the basics on Javascript to become a JS developer
-
-⚛️ Totally focused on React
+✨ Enhancing my skills in Javascript to excel as a JS developer
 
 🍏 Do you like Apple ?
 
 ## BIO
 
-🏢 I'm currently studing at O'Clock
+🏢 I'm currently at Qualiconsult
 
-⚙️ I use daily: .js, .html, .css, .scss, .react, .node, .express, .postgreSQL
+⚙️ I use daily: .js, .html, .css, .scss, .react, .node, .express, .postgreSQL, .mySql, .sap, 
 
 🌍 Improve my English to be connected to the world
 
 🌱 Learning all about Open Source
 
-💬 Ping me about opportunities in Paris 
+💬 Ping me about opportunities
 
 🤝 Let's talk : https://www.linkedin.com/in/kamel-laidi/
 
